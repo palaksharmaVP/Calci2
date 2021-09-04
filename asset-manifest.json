@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Calci2/static/css/main.4bf89605.chunk.css",
+    "main.js": "/Calci2/static/js/main.29119fb3.chunk.js",
+    "main.js.map": "/Calci2/static/js/main.29119fb3.chunk.js.map",
+    "runtime-main.js": "/Calci2/static/js/runtime-main.958451a4.js",
+    "runtime-main.js.map": "/Calci2/static/js/runtime-main.958451a4.js.map",
+    "static/js/2.5d6541e1.chunk.js": "/Calci2/static/js/2.5d6541e1.chunk.js",
+    "static/js/2.5d6541e1.chunk.js.map": "/Calci2/static/js/2.5d6541e1.chunk.js.map",
+    "static/js/3.37a9d097.chunk.js": "/Calci2/static/js/3.37a9d097.chunk.js",
+    "static/js/3.37a9d097.chunk.js.map": "/Calci2/static/js/3.37a9d097.chunk.js.map",
+    "index.html": "/Calci2/index.html",
+    "static/css/main.4bf89605.chunk.css.map": "/Calci2/static/css/main.4bf89605.chunk.css.map",
+    "static/js/2.5d6541e1.chunk.js.LICENSE.txt": "/Calci2/static/js/2.5d6541e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958451a4.js",
+    "static/js/2.5d6541e1.chunk.js",
+    "static/css/main.4bf89605.chunk.css",
+    "static/js/main.29119fb3.chunk.js"
+  ]
+}
